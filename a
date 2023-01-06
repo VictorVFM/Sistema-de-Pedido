@@ -1,0 +1,91 @@
+[33mcommit d73572f5074337aa0ae08f3857fd2d3d651bfd19[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Fri Jan 6 13:01:13 2023 -0300
+
+    Payment, one-to-one association
+
+[33mcommit a4f59fc31e77f9938806712d9f67d4ce9e71cd6f[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Fri Jan 6 12:50:09 2023 -0300
+
+    Product-OrderItem one-to-many association
+
+[33mcommit 413e1d0c3acb5158ed8d0b295c69551f6ffa8030[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Fri Jan 6 12:25:36 2023 -0300
+
+    OrderItem, many-to-many association with extra attributes PART 2
+
+[33mcommit e19a8df41e6c1d17679dffc49ad07ee550fffa97[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Fri Jan 6 12:11:52 2023 -0300
+
+    OrderItem, many-to-many association with extra attributes PART 1
+
+[33mcommit 2547fcfe2fd29cd6429f77984fa5223729d368c7[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Fri Jan 6 11:24:10 2023 -0300
+
+    Many-to-many association with JoinTable
+
+[33mcommit 9a23cc714b7f8c29ba7a37556ad6b61a044a92cd[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Fri Jan 6 10:34:14 2023 -0300
+
+    Product
+
+[33mcommit 9c850cbd10619adf4a809c94dd405b0abef5f2e1[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Thu Jan 5 15:18:26 2023 -0300
+
+    Category
+
+[33mcommit 50f45611fb090c4b00a23331e203c0106be205b0[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Thu Jan 5 15:08:24 2023 -0300
+
+    OrderStatus orderStatus
+
+[33mcommit f2a0c0499cb9202be19ff14854c48de147915f29[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Thu Jan 5 14:40:56 2023 -0300
+
+    Order, Instant, ISO 8601
+     - PART 2
+
+[33mcommit d5f067e8d9939b2694d7cc524417ea2fbc987df0[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Thu Jan 5 14:15:23 2023 -0300
+
+    Order, Instant, ISO 8601
+     - PART 1
+
+[33mcommit 198f39e0bd1e5d7992ec0e41e28edc5482fdae9b[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Wed Jan 4 15:05:09 2023 -0300
+
+    Service layer, component registration
+
+[33mcommit 609372a244d0b5dce6c3635e927659ee578976f6[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Wed Jan 4 14:29:48 2023 -0300
+
+    JPA repository, dependency injection, database seeding
+
+[33mcommit bc58fb62504ce7d2d12d46a7e61ebf44d6db2aeb[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Wed Jan 4 13:58:01 2023 -0300
+
+    H2 database, test profile, JPA
+
+[33mcommit 84673735d7d32c46dc9bfce6bf78f55aba67395d[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Tue Jan 3 19:45:09 2023 -0300
+
+    User entity and resource
+
+[33mcommit dc8096d0b7583a15eb4ea3737a8bbc61b4a10c3b[m
+Author: VictorVFM <victorhugoferreira452@gmail.com>
+Date:   Tue Jan 3 19:26:57 2023 -0300
+
+    Project created
