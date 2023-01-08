@@ -8,13 +8,13 @@ Projeto web services com Spring Boot e JPA / Hibernate é um projeto em back-end
 O propósito consiste em aprender a criar um projeto Spring Boot em Java, implementado um modelo de domínio com as entidades de um negócio, estruturando-o em camadas lógicas, configurando banco de dados de teste (H2), criando um CRUD completo e tratamento de exceções.
 
 ## Modelo de domínio
-![Modelo Conceitual](https://github.com/amandaoliveiracampos/course-spring-boot/blob/main/assets/Model.png)
+![Modelo Conceitual](https://github.com/VictorVFM/workshop-springboot3-jpa/blob/main/assets/Model.png)
 
 ## Instância de domínio
-![Modelo Conceitual](https://github.com/amandaoliveiracampos/course-spring-boot/blob/main/assets/Instace.png)
+![Modelo Conceitual](https://github.com/VictorVFM/workshop-springboot3-jpa/blob/main/assets/Instace.png)
 
 ## Lógica de domínio
-![Modelo Conceitual](https://github.com/amandaoliveiracampos/course-spring-boot/blob/main/assets/Logical.png)
+![Modelo Conceitual](https://github.com/VictorVFM/workshop-springboot3-jpa/blob/main/assets/Logical.png)
 
 # Tecnologias utilizadas
 ## Back-end
